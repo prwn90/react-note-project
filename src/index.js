@@ -10,13 +10,13 @@ require('firebase/firestore');
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDMAoKSD5IG0Jj8djPUqKTd2wWmC6nG78U",
-    authDomain: "note-project-b3a96.firebaseapp.com",
-    databaseURL: "https://note-project-b3a96.firebaseio.com",
-    projectId: "note-project-b3a96",
-    storageBucket: "note-project-b3a96.appspot.com",
-    messagingSenderId: "312226426655",
-    appId: "1:312226426655:web:079b646eb12d98c4"
+    apiKey: "Yours API KEY",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
